@@ -1,6 +1,6 @@
 s = "snehal"
 result= ""
 for ch in s:
-    result = ch+result
+    result = ch + result
 
 print(result) 
